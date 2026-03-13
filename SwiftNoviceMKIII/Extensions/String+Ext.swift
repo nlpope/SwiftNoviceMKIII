@@ -4,3 +4,7 @@
 
 import Foundation
 
+extension String
+{
+    
+}
